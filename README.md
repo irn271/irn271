@@ -1,15 +1,4 @@
-### Hi there :wave:, I'm Rinat
-![](https://komarev.com/ghpvc/?username=irn271)
-## I`m programmer, and student School 21
-
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irn271)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irn271&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)  |
-| ------------ | ------------ |
-
-
-
-| <img src="https://badge42.herokuapp.com/api/stats/hviva?darkmode=true&privacyEmail=true&privacyCursus=true"/> |
-| :------------: |
-
+<img src="https://badge42.herokuapp.com/api/stats/hviva?darkmode=true&privacyEmail=true&privacyCursus=true"/>
 
 
 | **Libft** | <img src="https://badge42.herokuapp.com/api/project/hviva/Libft"/> | **CPP Module 00** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 00"/> |
@@ -24,4 +13,6 @@
 | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 03"/> | -  | -  |
 
 
-</div>
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irn271)  | ![](https://komarev.com/ghpvc/?username=irn271) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irn271&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6) |
+| ------------ | ------------ |
