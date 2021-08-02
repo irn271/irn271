@@ -9,6 +9,7 @@
 </div>
 <div align="right">
       <b>cub3d</b><img src="https://badge42.herokuapp.com/api/project/hviva/cub3d"/>
+      <br>
       <b>minishell</b><img src="https://badge42.herokuapp.com/api/project/hviva/minishell"/>
 </div>
 
