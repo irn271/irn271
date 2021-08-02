@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://profile.intra.42.fr/">
-    <img src="https://badge42.herokuapp.com/api/stats/hviva?darkmode=true"/>
+    <img src="https://badge42.herokuapp.com/api/stats/hviva?darkmode=true&privacyEmail=true&privacyName=true"/>
   </a>
 </div>
 <div align="right">
