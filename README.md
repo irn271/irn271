@@ -6,6 +6,9 @@
   <a href="https://profile.intra.42.fr/">
     <img src="https://badge42.herokuapp.com/api/stats/hviva?darkmode=true"/>
   </a>
+</p>
+<p align="left">
+      <b>cub3d</b><img src="https://badge42.herokuapp.com/api/project/hviva/cub3d"/>
       <b>minishell</b><img src="https://badge42.herokuapp.com/api/project/hviva/minishell"/>
 </p>
 
