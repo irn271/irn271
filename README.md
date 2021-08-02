@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<div>
+<div style="align:left"> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irn271)
-
+</div>
+<div style="alight:right>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irn271&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
+</div>
+</div>
