@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://profile.intra.42.fr/">
     <img src="https://badge42.herokuapp.com/api/stats/hviva?darkmode=true"/>
+    (https://badge42.herokuapp.com/api/project/irn271/minishell)]
   </a>
 </p>
 
@@ -13,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irn271)
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/irn271/minishell)]
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irn271&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
 
