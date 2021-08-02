@@ -5,8 +5,7 @@
 <p align="center">
   <a href="https://profile.intra.42.fr/">
     <img src="https://badge42.herokuapp.com/api/stats/hviva?darkmode=true"/>
-    <img src="https://badge42.herokuapp.com/api/project/hviva/minishell"/>
-    [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hviva/minishell)](https://github.com/JaeSeoKim/badge42)
+    <b>minishell</b><img src="https://badge42.herokuapp.com/api/project/hviva/minishell"/>
   </a>
 </p>
 
