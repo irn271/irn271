@@ -13,6 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irn271)
 
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/irn271/minishell)](https://github.com/JaeSeoKim/badge42)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irn271&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
 
