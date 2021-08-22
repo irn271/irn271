@@ -3,7 +3,8 @@
 
 | **Libft** | <img src="https://badge42.herokuapp.com/api/project/hviva/Libft"/> | **CPP Module 00** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 00"/> |
 | :------------: | :------------: | :------------: | :------------: |
-| **get_next_line** | <img src="https://badge42.herokuapp.com/api/project/hviva/get_next_line"/>  | **CPP Module 01** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 02"/> |
+| **netwhat** | <img src="https://badge42.herokuapp.com/api/project/hviva/netwhat"/>  | **CPP Module 01** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 01"/> |
+| **get_next_line** | <img src="https://badge42.herokuapp.com/api/project/hviva/get_next_line"/>  | **CPP Module 02** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 02"/> |
 | **ft_printf** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_printf"/> | **CPP Module 03** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 03"/> |
 | **ft_server** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_server"/> | **CPP Module 04** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 04"/> |
 | **cub3d** | <img src="https://badge42.herokuapp.com/api/project/hviva/cub3d"/> | **CPP Module 05** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 05"/> |
