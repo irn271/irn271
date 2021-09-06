@@ -1,17 +1,15 @@
 <img src="https://badge42.herokuapp.com/api/stats/hviva?darkmode=true&privacyEmail=true&privacyCursus=true"/>
 
 
-| **Libft** | <img src="https://badge42.herokuapp.com/api/project/hviva/Libft"/> | **CPP Module 00** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 00"/> |
+| **Libft** | <img src="https://badge42.herokuapp.com/api/project/hviva/Libft"/> | **C++ Modules** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 08"/> |
 | :------------: | :------------: | :------------: | :------------: |
-| **netwhat** | <img src="https://badge42.herokuapp.com/api/project/hviva/netwhat"/>  | **CPP Module 01** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 01"/> |
-| **get_next_line** | <img src="https://badge42.herokuapp.com/api/project/hviva/get_next_line"/>  | **CPP Module 02** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 02"/> |
-| **ft_printf** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_printf"/> | **CPP Module 03** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 03"/> |
-| **ft_server** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_server"/> | **CPP Module 04** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 04"/> |
-| **cub3d** | <img src="https://badge42.herokuapp.com/api/project/hviva/cub3d"/> | **CPP Module 05** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 05"/> |
-| **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 02"/> | **CPP Module 06** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 06"/> |
-| **minishell** | <img src="https://badge42.herokuapp.com/api/project/hviva/minishell"/> | **CPP Module 07** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 07"/> |
-| **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/hviva/Philosophers"/> | **CPP Module 08** | <img src="https://badge42.herokuapp.com/api/project/hviva/CPP Module 08"/> |
-| **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 03"/> | -  | -  |
+| **netwhat** | <img src="https://badge42.herokuapp.com/api/project/hviva/netwhat"/>  | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 02"/>|
+| **get_next_line** | <img src="https://badge42.herokuapp.com/api/project/hviva/get_next_line"/>  | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 03"/>|
+| **ft_printf** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_printf"/> | **Exam Rank 04** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 04"/>|
+| **ft_server** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_server"/> |**Exam Rank 05** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 05"/>|
+| **cub3d** | <img src="https://badge42.herokuapp.com/api/project/hviva/cub3d"/> |**Exam Rank 06** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 06"/>|
+| **minishell** | <img src="https://badge42.herokuapp.com/api/project/hviva/minishell"/> | **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/hviva/NetPractice"/> |
+| **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/hviva/Philosophers"/> | **webserv** | <img src="https://badge42.herokuapp.com/api/project/hviva/webserv"/> |
 
 
 
