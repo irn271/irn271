@@ -4,9 +4,9 @@
 | **Libft** | <img src="https://badge42.herokuapp.com/api/project/hviva/Libft"/> | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 02"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **Netwhat** | <img src="https://badge42.herokuapp.com/api/project/hviva/netwhat"/>  | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 03"/>|
-| **FT_GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/hviva/get_next_line"/>  | **Exam Rank 04** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 04"/>|
-| **FT_Printf** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_printf"/> | **Exam Rank 05** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 05"/>|
-| **FT_Server** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_server"/> |**Exam Rank 06** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 06"/>|
+| **Getnextline** | <img src="https://badge42.herokuapp.com/api/project/hviva/get_next_line"/>  | **Exam Rank 04** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 04"/>|
+| **Printf** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_printf"/> | **Exam Rank 05** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 05"/>|
+| **Server** | <img src="https://badge42.herokuapp.com/api/project/hviva/ft_server"/> |**Exam Rank 06** | <img src="https://badge42.herokuapp.com/api/project/hviva/Exam Rank 06"/>|
 | **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/hviva/cub3d"/> |**Inception** | <img src="https://badge42.herokuapp.com/api/project/hviva/Inception"/> |
 | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/hviva/minishell"/> | **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/hviva/NetPractice"/> |
 | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/hviva/Philosophers"/> | **Webserv** | <img src="https://badge42.herokuapp.com/api/project/hviva/webserv"/> |
